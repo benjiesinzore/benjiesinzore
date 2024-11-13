@@ -1,5 +1,6 @@
 # 👽 About Me:
-Hi, Thank you for visiting my page. <br> I am Benjamin Sinzore, and I am passionate about Software Engineering and continuously learning and improving my skills on the same<br>I am looking forward to collaborate on projects in Java, Kotlin Flutter & C#<br>
+👋 Hello, I'm Benjie!
+I'm a dedicated software developer and data engineer with over 5 years of experience specializing in database management, cloud computing, and data integration. My journey in technology began with a Bachelor’s in Information Technology from Machakos University, and since then, I've deepened my skills through hands-on work and certifications, including a Java Certificate from HackerRank.
 
 
 ## 🌐 Socials:
